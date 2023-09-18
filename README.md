@@ -1,6 +1,6 @@
 # ML-K-Nearest-Neighbors-Project
 
-This Python project employs the K-Nearest Neighbor (KNN) algorithm to predict a "Target Class." While detailed dataset information is not provided here, the core of KNN involves leveraging features, scaling them appropriately, and making predictions based on a specified K value and the proximity between data points.
+This Python project for my Data Science and Machine Learning course employs the K-Nearest Neighbor (KNN) algorithm to predict a "Target Class." While detailed dataset information is not provided here, the core of KNN involves leveraging features, scaling them appropriately, and making predictions based on a specified K value and the proximity between data points.
 
 ## Key Highlights
 
